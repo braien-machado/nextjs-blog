@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is my first app built with Nextjs. Demo [here](https://bmp-nextjs-blog.vercel.app/).
